@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rwethereyet
 - 👀 I’m interested in ...improving development support and knowledge 
 - 🌱 I’m currently learning ...Javascript C#
-- 💞️ I’m looking to collaborate on ... pending
+- 💞️ I’m looking to collaborate on ... individuals interested in contract work
 - 📫 How to reach me ...andre.stewart@probitastek.com
 
 <!---
